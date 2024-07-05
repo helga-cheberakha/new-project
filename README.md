@@ -51,11 +51,3 @@
    ```
    git merge development
    ```
-15. Commit changes with the comment
-   ```
-   git commit -m 'Merge the branch "development" into the branch "main"'
-   ```
-16. Push changes to the remote to the main branch
-   ```
-   git push origin main
-   ```
