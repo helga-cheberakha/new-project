@@ -51,3 +51,7 @@
    ```
    git merge development
    ```
+15. Push changes to the remote to the main branch
+   ```
+   git push origin main
+   ```
